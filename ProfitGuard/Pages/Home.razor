@@ -1,0 +1,40 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+@inject CoinExService CoinExService
+
+<h3>Bitcoin Trading</h3>
+<TradingViewChart />
+
+<button class="btn btn-primary" @onclick="BuyBitcoin">Buy $1000 BTC</button>
+
+@if (isPurchaseDone)
+{
+    <div>
+        <p>Purchase done at price: @purchasePrice USD</p>
+        <p>Stop Loss: @stopLoss USD</p>
+        <p>Take Profit: @takeProfit USD</p>
+    </div>
+}
+
+@code {
+    private bool isPurchaseDone = false;
+    private decimal purchasePrice;
+    private decimal stopLoss;
+    private decimal takeProfit;
+
+    private async Task BuyBitcoin()
+    {
+        purchasePrice = await CoinExService.GetCurrentPrice();
+        var success = await CoinExService.BuyBitcoin(1000);
+        if (success)
+        {
+            isPurchaseDone = true;
+            stopLoss = purchasePrice * 0.95m;
+
+            takeProfit = purchasePrice * 1.1m; 
+
+        }
+    }
+}

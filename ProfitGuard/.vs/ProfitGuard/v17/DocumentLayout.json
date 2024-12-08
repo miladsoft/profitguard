@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|e:\\git\\miladsoft\\profitguard\\profitguard\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|e:\\git\\miladsoft\\profitguard\\profitguard\\pages\\tradingviewchart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|solutionrelative:pages\\tradingviewchart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|e:\\git\\miladsoft\\profitguard\\profitguard\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|e:\\git\\miladsoft\\profitguard\\profitguard\\wwwroot\\js\\tradingviewchart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|solutionrelative:wwwroot\\js\\tradingviewchart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|e:\\git\\miladsoft\\profitguard\\profitguard\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|e:\\git\\miladsoft\\profitguard\\profitguard\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|e:\\git\\miladsoft\\profitguard\\profitguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|e:\\git\\miladsoft\\profitguard\\profitguard\\services\\coinexservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|solutionrelative:services\\coinexservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|e:\\git\\miladsoft\\profitguard\\profitguard\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1D7296DF-88F5-44F9-927F-F867CAFED918}|ProfitGuard.csproj|solutionrelative:layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1456152217:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.css",
+              "DocumentMoniker": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-08T17:48:58.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:38:41.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pages\\Home.razor",
+              "ToolTip": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\Pages\\Home.razor",
+              "RelativeToolTip": "Pages\\Home.razor",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T17:37:45.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoinExService.cs",
+              "DocumentMoniker": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\Services\\CoinExService.cs",
+              "RelativeDocumentMoniker": "Services\\CoinExService.cs",
+              "ToolTip": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\Services\\CoinExService.cs",
+              "RelativeToolTip": "Services\\CoinExService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:37:05.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-08T17:35:20.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TradingViewChart.js",
+              "DocumentMoniker": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\wwwroot\\js\\TradingViewChart.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\TradingViewChart.js",
+              "ToolTip": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\wwwroot\\js\\TradingViewChart.js",
+              "RelativeToolTip": "wwwroot\\js\\TradingViewChart.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-08T17:34:30.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradingViewChart.razor",
+              "DocumentMoniker": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\Pages\\TradingViewChart.razor",
+              "RelativeDocumentMoniker": "Pages\\TradingViewChart.razor",
+              "ToolTip": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\Pages\\TradingViewChart.razor",
+              "RelativeToolTip": "Pages\\TradingViewChart.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T17:32:19.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
+              "ToolTip": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T17:25:15.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor.css",
+              "ToolTip": "E:\\Git\\miladsoft\\profitguard\\ProfitGuard\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-08T17:24:16.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
